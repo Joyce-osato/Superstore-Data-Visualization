@@ -3,6 +3,7 @@ The PowerBI tool is a data analytic tool used for visualization and display of a
 In this analysis, it was used to visualize and display the dataset of a Superstore and the relationship with sales, profit, order and other variables
 
 ## Data Source
+
 The data was sent to the PSP Analytics whatsapp group by our facilitator Joseph Elijah
 
 ## Data Processing
